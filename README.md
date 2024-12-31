@@ -13,6 +13,8 @@ This project demonstrates the creation of a **Predictive Maintenance Recommendat
 - **Scalability**: Designed for integration into real-world industrial scenarios.
 
 ## Repository Structure
+
+```plaintext
 .
 ├── dataset.csv                      # Simulated IoT sensor dataset
 ├── Maintenance_Recommendation_System.ipynb # Complete project notebook
@@ -81,3 +83,5 @@ Streamlit for building the deployment app.
 Imbalanced-learn for handling class imbalance with techniques like SMOTE.
 Special thanks to the contributors who made this project possible.
 License
+
+This project is licensed under the MIT License.
