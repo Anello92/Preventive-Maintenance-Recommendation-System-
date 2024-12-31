@@ -4,6 +4,8 @@
 
 This project demonstrates the creation of a **Predictive Maintenance Recommendation System**, leveraging **IoT sensor data** and **Machine Learning** to reduce unplanned downtimes. Using simulated datasets, the goal is to develop a system capable of recommending maintenance actions based on historical sensor readings, ensuring improved operational efficiency.
 
+---
+
 ## Key Features
 
 - **Imbalanced Data Handling**: Implementation of five distinct strategies to address class imbalance.
@@ -11,6 +13,8 @@ This project demonstrates the creation of a **Predictive Maintenance Recommendat
 - **Web Application Deployment**: An interactive app built with **Streamlit** for user-friendly maintenance recommendations.
 - **Performance Metrics**: Analysis based on metrics like **Accuracy** and **AUC-ROC** to ensure model robustness.
 - **Scalability**: Designed for integration into real-world industrial scenarios.
+
+---
 
 ## Repository Structure
 
@@ -31,10 +35,7 @@ This project demonstrates the creation of a **Predictive Maintenance Recommendat
 │   ├── scaler_v3.pkl
 │   ├── scaler_v4.pkl
 │   └── scaler_v5.pkl
-
-```plaintext
-
-
+```
 Installation
 
 Clone the repository:
@@ -46,7 +47,7 @@ Ensure all necessary files (models and scalers directories) are in place.
 Usage
 
 Running the Jupyter Notebook
-Open the project notebook to explore the entire pipeline:
+To explore the entire pipeline:
 
 jupyter notebook Maintenance_Recommendation_System.ipynb
 Running the Streamlit App
