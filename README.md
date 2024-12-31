@@ -31,6 +31,10 @@ This project demonstrates the creation of a **Predictive Maintenance Recommendat
 │   ├── scaler_v3.pkl
 │   ├── scaler_v4.pkl
 │   └── scaler_v5.pkl
+
+```plaintext
+
+
 Installation
 
 Clone the repository:
@@ -82,6 +86,3 @@ Scikit-learn for machine learning algorithms and utilities.
 Streamlit for building the deployment app.
 Imbalanced-learn for handling class imbalance with techniques like SMOTE.
 Special thanks to the contributors who made this project possible.
-License
-
-This project is licensed under the MIT License.
